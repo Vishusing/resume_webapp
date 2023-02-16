@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "../components/Header";
-
+import Typical from "react-typical";
+import './Typical.css';
 
 const Home = () => {
   return (
@@ -11,13 +12,22 @@ const Home = () => {
           <div class="resume-section-content">
           <div className="container">
           <div className="dp">
-            <img src="/IMG/168e90dc-36ad-4d8d-adc2-e2a2fc244314.jpg" alt="mydp" />
+            <img src="/IMG/PROFILE_pic2.jpg" alt="mydp" />
           </div>
           </div>
             <h1 class="container mb-0">
               Vishal
               <span class="text-primary">Singh</span>
             </h1>
+
+            <Typical wrapper="span" steps={[
+              'Hello..',1000,
+              'I am Web Developer',3000,
+              'Data Analyst',3000,
+              'and Python Enthusiast',3000,
+              'Learning MERN',3000
+            ]} loop={Infinity} className="caca" />
+
             <div class="container subheading mb-5" style={{textAlign:"center"}}>
               Sadar Mod, Padav Ward, Pratapgarh, U.P. 9919938441 
             </div>
