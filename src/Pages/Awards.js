@@ -22,25 +22,25 @@ const Award = () => {
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-               Gold Badge in C,C++ Hackerrank
+                Gold Badge in C,C++ Hackerrank
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-               Gold Badge in Python 'Problem Solving' Hackerrank
+                Gold Badge in Python 'Problem Solving' Hackerrank
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-               Problem Solving 'Basic' Certificate using Python 'Passed in 2nd Attempt'
+                Problem Solving 'Basic' Certificate using Python 'Passed in 2nd Attempt'
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-              Full Stack Web development Program Demo session Participation Certificate. 'A small initiative towards web'
+                Full Stack Web development Program Demo session Participation Certificate. 'A small initiative towards web'
               </li>
               <li>
                 <span class="fa-li">
@@ -65,14 +65,14 @@ const Award = () => {
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                Certificate of Completion of Fundamentals of A.I. And Machine Learning with Python 
+                Certificate of Completion of Fundamentals of A.I. And Machine Learning with Python
                 at YBI Foundation
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                Certificate of Completion of Data Science Training Program at RINEX in 
+                Certificate of Completion of Data Science Training Program at RINEX in
                 association with E-cell '''IIT Bhuvneshwar'
               </li>
             </ul>
